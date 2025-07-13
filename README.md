@@ -95,20 +95,40 @@ And guess what? The model nailed it! 🎯
      setosa       1.00      1.00      1.00        10
  versicolor       1.00      1.00      1.00        10
   virginica       1.00      1.00      1.00        10
-
-### 📊 Species Count
-
-![Species Count](images/species_count.png)
+```
 
 
- ```
-## 💻 How to Run the Project
+
+![Species Count](https://github.com/Sangeetha-K-04/CodsoftTask1/blob/main/iris1.png?raw=true)
+
+
+
+![Petal length distribution](https://github.com/Sangeetha-K-04/CodsoftTask1/blob/main/iris2.png?raw=true)
+
+
+
+![Petal length vs Width by species](https://github.com/Sangeetha-K-04/CodsoftTask1/blob/main/iris3.png?raw=true)
+
+
+
+![Petal length vs Width by species](https://github.com/Sangeetha-K-04/CodsoftTask1/blob/main/iris4.png?raw=true)
+
+
+
+![Petal length vs Width by species](https://github.com/Sangeetha-K-04/CodsoftTask1/blob/main/iris5.png?raw=true)
+
+
+
+---
+
+ ## 💻 How to Run the Project
 
 ### 1️⃣ Clone this Repository
 
 ```bash
 git clone https://github.com/Sangeetha-K-04/CodsoftTask1.git
 cd CodsoftTask1
+
 ```
 
 ### 2️⃣ Install Required Libraries
