@@ -96,6 +96,11 @@ And guess what? The model nailed it! 🎯
  versicolor       1.00      1.00      1.00        10
   virginica       1.00      1.00      1.00        10
 
+### 📊 Species Count
+
+![Species Count](images/species_count.png)
+
+
  ```
 ## 💻 How to Run the Project
 
