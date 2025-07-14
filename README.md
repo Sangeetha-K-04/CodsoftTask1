@@ -140,5 +140,5 @@ pip install pandas seaborn matplotlib scikit-learn
 ### 3️⃣ Run the Project
 
 ```bash
-python iris_classification.py
+IrisFlowerClassification.py
 ```
